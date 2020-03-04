@@ -1,6 +1,30 @@
-.slider h3,
-.slider h5{
+.slider h5,
+h3,
+h3 {
 
- text-shadow: 1px 1px 3px rgba(0, 0, 0, 0, 5) ;
- color: black;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0, 5);
+    color: black;
+}
+
+
+section {
+    padding: 20px 0;
+}
+
+
+.services h5,
+h3 {
+
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0, 5);
+    color: black;
+}
+
+.services p {
+
+    font-weight: 700;
+}
+
+.section,
+footer {
+    padding: 20px 0;
 }
